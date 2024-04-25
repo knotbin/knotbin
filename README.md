@@ -1,6 +1,8 @@
 # I'm Roscoe, a 14 year old iOS developer.
 I’m a student at Brooklyn Technical High School in Brooklyn, NY. I program iOS apps in Swift and SwiftUI, and also do some work in React and NextJS.
 
+I am a winner of Apple's Swift Student Challenge 2024. I was also featured in [an article on TechRadar](https://www.techradar.com/computing/websites-apps/i-met-two-incredible-teenage-swift-coders-who-might-care-more-about-climate-change-than-you)!
+
 <a href="https://twitter.com/knotbin"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"><a>
 <a href="https://bsky.app/profile/knotbin.xyz"><img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge"><a>
 <a href="https://threads.net/@/knotbin"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white"><a>
