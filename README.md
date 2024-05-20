@@ -7,7 +7,7 @@ I am a winner of Apple's Swift Student Challenge 2024. I was also featured in [a
 <a href="https://bsky.app/profile/knotbin.xyz"><img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge"><a>
 <a href="https://threads.net/@knotbin"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white"><a>
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=knotbin) [![GitHub Streak](https://streak-stats.demolab.com/?user=Knotbin)](https://git.io/streak-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=knotbin&theme=transparent_icons=true)
 
 ---
 <details>
