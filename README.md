@@ -4,7 +4,6 @@ I’m a student at Brooklyn Technical High School in Brooklyn, NY. I program iOS
 I am a winner of Apple's Swift Student Challenge 2024. I was also featured in [an article on TechRadar](https://www.techradar.com/computing/websites-apps/i-met-two-incredible-teenage-swift-coders-who-might-care-more-about-climate-change-than-you)!
 
 <a href="https://twitter.com/knotbin"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"><a>
-<a href="https://mastodon.social/@knotbin"><img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white"><a>
 <a href="https://bsky.app/profile/knotbin.xyz"><img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge"><a>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=knotbin&theme=transparent_icons=true)
