@@ -1,4 +1,4 @@
-![Roscoe's GitHub stats](https://github-readme-stats.vercel.app/api?username=knotbin&show_icons=true&theme=transparent)
+![Roscoe's GitHub stats](http://personal-ghstats-ouxdcs-bb66d1-38-105-230-86.traefik.me/api?username=knotbin&show_icons=true&theme=transparent)
 
 <!--
 **knotbin/knotbin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
